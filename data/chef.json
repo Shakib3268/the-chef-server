@@ -1,0 +1,302 @@
+[
+     {
+        "id": "CHC001",
+        "picture": "https://i.ibb.co/3yRsN4X/happy-young-cook-uniform-holding-salad-171337-5342.jpg",
+        "name": "Martin Yan",
+        "years_of_experience": 50,
+        "num_recipes": 500,
+        "likes": 12000,
+        "bio": "Martin Yan is a Chinese-American chef and a television cooking show host. He is best known for his PBS series Yan Can Cook.",
+        "recipes": [
+            {
+                "id": "RC001",
+                "name": "Kung Pao Chicken",
+                "ingredients": [
+                    "Chicken",
+                    "Peppers",
+                    "Onions",
+                    "Garlic",
+                    "Ginger"
+                ],
+                "cooking_method": "Stir-fry",
+                "rating": 4.8
+            },
+            {
+                "id": "RC002",
+                "name": "Hot and Sour Soup",
+                "ingredients": [
+                    "Pork",
+                    "Mushrooms",
+                    "Bamboo shoots",
+                    "Tofu",
+                    "Vinegar"
+                ],
+                "cooking_method": "Boiling",
+                "rating": 4.6
+            },
+            {
+                "id": "RC003",
+                "name": "Beef Chow Fun",
+                "ingredients": [
+                    "Beef",
+                    "Rice noodles",
+                    "Green onions",
+                    "Bean sprouts",
+                    "Soy sauce"
+                ],
+                "cooking_method": "Stir-fry",
+                "rating": 4.5
+            }
+        ]
+    },
+     {
+        "id": "CHC002",
+        "picture": "https://i.ibb.co/1Z4zjqn/professional-male-chef-cook-white-uniform-cook-hat-pointing-sidewith-index-finger-looking-confident.jpg",
+        "name": "Ken Hom",
+        "years_of_experience": 40,
+        "num_recipes": 300,
+        "likes": 9000,
+        "bio": "Ken Hom is a Chinese-American chef, author, and television presenter who has been cooking for over 50 years. He is considered one of the world's leading authorities on Chinese cuisine.",
+        "recipes": [
+            {
+                "id": "RC004",
+                "name": "Sweet and Sour Pork",
+                "ingredients": [
+                    "Pork",
+                    "Bell peppers",
+                    "Pineapple",
+                    "Onion",
+                    "Ketchup"
+                ],
+                "cooking_method": "Deep-frying",
+                "rating": 4.7
+            },
+            {
+                "id": "RC005",
+                "name": "Egg Drop Soup",
+                "ingredients": [
+                    "Chicken broth",
+                    "Eggs",
+                    "Cornstarch",
+                    "Soy sauce",
+                    "Green onions"
+                ],
+                "cooking_method": "Boiling",
+                "rating": 4.4
+            },
+            {
+                "id": "RC006",
+                "name": "Ma Po Tofu",
+                "ingredients": [
+                    "Tofu",
+                    "Ground pork",
+                    "Sichuan peppercorns",
+                    "Garlic",
+                    "Ginger"
+                ],
+                "cooking_method": "Stir-fry",
+                "rating": 4.5
+            }
+        ]
+    },
+     {
+        "id": "CHC003",
+        "picture": "https://i.ibb.co/GcmpDnC/chef-pointing-lateral-white-background-1368-2826.jpg",
+        "name": "Ching-He Huang",
+        "years_of_experience": 25,
+        "num_recipes": 200,
+        "likes": 7000,
+        "bio": "Ching-He Huang is a Chinese-American chef, author, and television presenter who has been cooking for over 50 years. He is considered one of the world's leading authorities on Chinese cuisine.",
+        "recipes": [
+            {
+                "id": "RC007",
+                "name": "General Tso's Chicken",
+                "ingredients": [
+                    "Chicken",
+                    "Cornstarch",
+                    "Soy sauce",
+                    "Hoisin sauce",
+                    "Ginger"
+                ],
+                "cooking_method": "Deep-frying",
+                "rating": 4.6
+            },
+            {
+                "id": "RC008",
+                "name": "Hot Pot",
+                "ingredients": [
+                    "Beef",
+                    "Shrimp",
+                    "Fish balls",
+                    "Noodles",
+                    "Bok choy"
+                ],
+                "cooking_method": "Boiling",
+                "rating": 4.8
+            },
+            {
+                "id": "RC009",
+                "name": "Dan Dan Noodles",
+                "ingredients": [
+                    "Ground pork",
+                    "Soy sauce",
+                    "Sesame paste",
+                    "Chili oil",
+                    "Green onions"
+                ],
+                "cooking_method": "Boiling",
+                "rating": 4.5
+            }
+        ]
+    },
+     {
+        "id": "CHC004",
+        "picture": "https://i.ibb.co/vvqsNVV/chef-cooking-fresh-vegetable-salad-his-kitchen-155003-7421.jpg",
+        "name": "Ming Tsai",
+        "years_of_experience": 30,
+        "num_recipes": 250,
+        "likes": 8000,
+        "bio": "Ming Tsai is an American chef, television personality, and restaurateur. He is the owner of the Blue Dragon restaurant in Boston, Massachusetts, and has written several cookbooks.",
+        "recipes": [
+            {
+                "id": "RC010",
+                "name": "Steamed Bao Buns",
+                "ingredients": [
+                    "Flour",
+                    "Yeast",
+                    "Pork belly",
+                    "Cucumbers",
+                    "Green onions"
+                ],
+                "cooking_method": "Steaming",
+                "rating": 4.7
+            },
+            {
+                "id": "RC011",
+                "name": "Hunan Beef",
+                "ingredients": [
+                    "Beef",
+                    "Broccoli",
+                    "Carrots",
+                    "Garlic",
+                    "Chili paste"
+                ],
+                "cooking_method": "Stir-fry",
+                "rating": 4.5
+            },
+            {
+                "id": "RC012",
+                "name": "Shrimp Fried Rice",
+                "ingredients": [
+                    "Shrimp",
+                    "Rice",
+                    "Eggs",
+                    "Peas",
+                    "Carrots"
+                ],
+                "cooking_method": "Stir-fry",
+                "rating": 4.4
+            }
+        ]
+    },
+     {
+        "id": "CHC005",
+        "picture": "https://i.ibb.co/MgyhkhM/young-bearded-man-his-work-place-cooking-vegetables-496169-93.jpg",
+        "name": "Martin Yan",
+        "years_of_experience": 50,
+        "num_recipes": 500,
+        "likes": 12000,
+        "bio": "Martin Yan is a Chinese-American chef and a television cooking show host. He is best known for his PBS series Yan Can Cook.",
+        "recipes": [
+            {
+                "id": "RC013",
+                "name": "Mongolian Beef",
+                "ingredients": [
+                    "Beef",
+                    "Onions",
+                    "Garlic",
+                    "Ginger",
+                    "Soy sauce"
+                ],
+                "cooking_method": "Stir-fry",
+                "rating": 4.6
+            },
+            {
+                "id": "RC014",
+                "name": "Wonton Soup",
+                "ingredients": [
+                    "Pork",
+                    "Wonton wrappers",
+                    "Green onions",
+                    "Soy sauce",
+                    "Sesame oil"
+                ],
+                "cooking_method": "Boiling",
+                "rating": 4.8
+            },
+            {
+                "id": "RC015",
+                "name": "Kung Pao Chicken",
+                "ingredients": [
+                    "Chicken",
+                    "Peppers",
+                    "Peanuts",
+                    "Scallions",
+                    "Chili peppers"
+                ],
+                "cooking_method": "Stir-fry",
+                "rating": 4.5
+            }
+        ]
+    },
+    {
+        "id": "CHC006",
+        "picture": "https://i.ibb.co/Ms1j89s/front-view-young-female-cook-white-cook-suit-cap-posing-with-smile-green-wall-lady-work-food-cuisine.jpg",
+        "name": "Susur Lee",
+        "years_of_experience": 40,
+        "num_recipes": 300,
+        "likes": 10000,
+        "bio": "Susur Lee is a Hong Kong-born Canadian chef and restaurateur. He has been recognized as one of the Ten Chefs of the Millennium by Food & Wine magazine and has appeared on several cooking shows.",
+        "recipes": [
+            {
+                "id": "RC016",
+                "name": "Cantonese-Style Lobster",
+                "ingredients": [
+                    "Lobster",
+                    "Ginger",
+                    "Scallions",
+                    "Soy sauce",
+                    "Shaoxing wine"
+                ],
+                "cooking_method": "Stir-fry",
+                "rating": 4.9
+            },
+            {
+                "id": "RC017",
+                "name": "Braised Pork Belly",
+                "ingredients": [
+                    "Pork belly",
+                    "Soy sauce",
+                    "Sugar",
+                    "Star anise",
+                    "Cinnamon"
+                ],
+                "cooking_method": "Braising",
+                "rating": 4.7
+            },
+            {
+                "id": "RC018",
+                "name": "Spicy Tofu",
+                "ingredients": [
+                    "Tofu",
+                    "Garlic",
+                    "Soy sauce",
+                    "Sambal oelek",
+                    "Green onions"
+                ],
+                "cooking_method": "Stir-fry",
+                "rating": 4.6
+            }
+        ]
+    }
+]
