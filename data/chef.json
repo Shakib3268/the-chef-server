@@ -9,6 +9,8 @@
         "bio": "Martin Yan is a Chinese-American chef and a television cooking show host. He is best known for his PBS series Yan Can Cook.",
         "recipes": [
             {
+                "recipe_id": "IN-001",
+                "_pic": "https://i.ibb.co/vQLt2vM/baked-potatoes-with-garlic-herbs-fried-chanterelles-cast-iron-skillet-2829-17400.jpg",
                 "name": "Kung Pao Chicken",
                 "ingredients": [
                     "Chicken",
@@ -21,6 +23,8 @@
                 "rating": 4.8
             },
             {
+                "recipe_id": "IN-002",
+                "_pic": "https://i.ibb.co/KLv7Kgr/miso-soup-with-mushrooms-table-140725-5328.jpg",
                 "name": "Hot and Sour Soup",
                 "ingredients": [
                     "Pork",
@@ -33,7 +37,8 @@
                 "rating": 4.6
             },
             {
-                
+                "recipe_id": "IN-003",
+                "_pic":"https://i.ibb.co/nm7g0SP/fried-chicken-liver-with-onions-herbs-2829-19707.jpg",
                 "name": "Beef Chow Fun",
                 "ingredients": [
                     "Beef",
@@ -57,8 +62,9 @@
         "bio": "Ken Hom is a Chinese-American chef, author, and television presenter who has been cooking for over 50 years. He is considered one of the world's leading authorities on Chinese cuisine.",
         "recipes": [
             {
-                
+                "recipe_id": "IN-004",
                 "name": "Sweet and Sour Pork",
+                "_pic": "https://i.ibb.co/0q6PfWK/meat-ball-variety-type-meat-white-wooden-surface-1150-43634.jpg",
                 "ingredients": [
                     "Pork",
                     "Bell peppers",
@@ -70,8 +76,9 @@
                 "rating": 4.7
             },
             {
-                
+                "recipe_id": "IN-005",
                 "name": "Egg Drop Soup",
+                "_pic": "https://i.ibb.co/9nXY8XV/chicken-broth-vegetable-soup-disposable-cup-bowl-served-with-green-vegetables-114579-905.jpg",
                 "ingredients": [
                     "Chicken broth",
                     "Eggs",
@@ -83,8 +90,9 @@
                 "rating": 4.4
             },
             {
-                
+                "recipe_id": "IN-006",
                 "name": "Ma Po Tofu",
+                "_pic":"https://i.ibb.co/zr85k9y/vegan-curry-with-tofu-vegetables-661915-287.jpg",
                 "ingredients": [
                     "Tofu",
                     "Ground pork",
@@ -107,7 +115,7 @@
         "bio": "Ching-He Huang is a Chinese-American chef, author, and television presenter who has been cooking for over 50 years. He is considered one of the world's leading authorities on Chinese cuisine.",
         "recipes": [
             {
-                
+                "recipe_id": "IN-007",
                 "name": "General Tso's Chicken",
                 "ingredients": [
                     "Chicken",
@@ -120,7 +128,7 @@
                 "rating": 4.6
             },
             {
-                
+                "recipe_id": "IN-008",
                 "name": "Hot Pot",
                 "ingredients": [
                     "Beef",
@@ -133,7 +141,7 @@
                 "rating": 4.8
             },
             {
-                
+                "recipe_id": "IN-009",
                 "name": "Dan Dan Noodles",
                 "ingredients": [
                     "Ground pork",
@@ -157,7 +165,7 @@
         "bio": "Ming Tsai is an American chef, television personality, and restaurateur. He is the owner of the Blue Dragon restaurant in Boston, Massachusetts, and has written several cookbooks.",
         "recipes": [
             {
-                
+                "recipe_id": "IN-0010",
                 "name": "Steamed Bao Buns",
                 "ingredients": [
                     "Flour",
@@ -170,7 +178,7 @@
                 "rating": 4.7
             },
             {
-                
+                "recipe_id": "IN-0011",
                 "name": "Hunan Beef",
                 "ingredients": [
                     "Beef",
@@ -183,7 +191,7 @@
                 "rating": 4.5
             },
             {
-                
+                "recipe_id": "IN-0012",
                 "name": "Shrimp Fried Rice",
                 "ingredients": [
                     "Shrimp",
@@ -207,7 +215,7 @@
         "bio": "Martin Yan is a Chinese-American chef and a television cooking show host. He is best known for his PBS series Yan Can Cook.",
         "recipes": [
             {
-               
+                "recipe_id": "IN-0013",
                 "name": "Mongolian Beef",
                 "ingredients": [
                     "Beef",
@@ -220,7 +228,7 @@
                 "rating": 4.6
             },
             {
-                
+                "recipe_id": "IN-0014",
                 "name": "Wonton Soup",
                 "ingredients": [
                     "Pork",

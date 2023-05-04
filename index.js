@@ -16,10 +16,16 @@ app.get('/chef',(req,res) =>{
 })
 
 app.get('/chef/:id',(req,res) => {
-    const id = parseInt(req.params.id )
+    const id =req.params.id
     console.log(id)
-    const chefData = chef.find(n => parseInt(n.id) === id)
-    res.send(chefData)
+    if( id ==0)
+    {
+        res.send(chef)
+    }else{
+        const chefData = chef.find(n => n.id == id)
+        res.send(chefData)
+    }
+   
     console.log(chefData)
 })
 
