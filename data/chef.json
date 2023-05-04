@@ -1,6 +1,6 @@
 [
      {
-        "id": "CHC001",
+        "id": "01",
         "picture": "https://i.ibb.co/3yRsN4X/happy-young-cook-uniform-holding-salad-171337-5342.jpg",
         "name": "Martin Yan",
         "years_of_experience": 50,
@@ -9,7 +9,6 @@
         "bio": "Martin Yan is a Chinese-American chef and a television cooking show host. He is best known for his PBS series Yan Can Cook.",
         "recipes": [
             {
-                "id": "RC001",
                 "name": "Kung Pao Chicken",
                 "ingredients": [
                     "Chicken",
@@ -22,7 +21,6 @@
                 "rating": 4.8
             },
             {
-                "id": "RC002",
                 "name": "Hot and Sour Soup",
                 "ingredients": [
                     "Pork",
@@ -35,7 +33,7 @@
                 "rating": 4.6
             },
             {
-                "id": "RC003",
+                
                 "name": "Beef Chow Fun",
                 "ingredients": [
                     "Beef",
@@ -50,7 +48,7 @@
         ]
     },
      {
-        "id": "CHC002",
+        "id": "02",
         "picture": "https://i.ibb.co/1Z4zjqn/professional-male-chef-cook-white-uniform-cook-hat-pointing-sidewith-index-finger-looking-confident.jpg",
         "name": "Ken Hom",
         "years_of_experience": 40,
@@ -59,7 +57,7 @@
         "bio": "Ken Hom is a Chinese-American chef, author, and television presenter who has been cooking for over 50 years. He is considered one of the world's leading authorities on Chinese cuisine.",
         "recipes": [
             {
-                "id": "RC004",
+                
                 "name": "Sweet and Sour Pork",
                 "ingredients": [
                     "Pork",
@@ -72,7 +70,7 @@
                 "rating": 4.7
             },
             {
-                "id": "RC005",
+                
                 "name": "Egg Drop Soup",
                 "ingredients": [
                     "Chicken broth",
@@ -85,7 +83,7 @@
                 "rating": 4.4
             },
             {
-                "id": "RC006",
+                
                 "name": "Ma Po Tofu",
                 "ingredients": [
                     "Tofu",
@@ -100,7 +98,7 @@
         ]
     },
      {
-        "id": "CHC003",
+        "id": "03",
         "picture": "https://i.ibb.co/GcmpDnC/chef-pointing-lateral-white-background-1368-2826.jpg",
         "name": "Ching-He Huang",
         "years_of_experience": 25,
@@ -109,7 +107,7 @@
         "bio": "Ching-He Huang is a Chinese-American chef, author, and television presenter who has been cooking for over 50 years. He is considered one of the world's leading authorities on Chinese cuisine.",
         "recipes": [
             {
-                "id": "RC007",
+                
                 "name": "General Tso's Chicken",
                 "ingredients": [
                     "Chicken",
@@ -122,7 +120,7 @@
                 "rating": 4.6
             },
             {
-                "id": "RC008",
+                
                 "name": "Hot Pot",
                 "ingredients": [
                     "Beef",
@@ -135,7 +133,7 @@
                 "rating": 4.8
             },
             {
-                "id": "RC009",
+                
                 "name": "Dan Dan Noodles",
                 "ingredients": [
                     "Ground pork",
@@ -150,7 +148,7 @@
         ]
     },
      {
-        "id": "CHC004",
+        "id": "04",
         "picture": "https://i.ibb.co/vvqsNVV/chef-cooking-fresh-vegetable-salad-his-kitchen-155003-7421.jpg",
         "name": "Ming Tsai",
         "years_of_experience": 30,
@@ -159,7 +157,7 @@
         "bio": "Ming Tsai is an American chef, television personality, and restaurateur. He is the owner of the Blue Dragon restaurant in Boston, Massachusetts, and has written several cookbooks.",
         "recipes": [
             {
-                "id": "RC010",
+                
                 "name": "Steamed Bao Buns",
                 "ingredients": [
                     "Flour",
@@ -172,7 +170,7 @@
                 "rating": 4.7
             },
             {
-                "id": "RC011",
+                
                 "name": "Hunan Beef",
                 "ingredients": [
                     "Beef",
@@ -185,7 +183,7 @@
                 "rating": 4.5
             },
             {
-                "id": "RC012",
+                
                 "name": "Shrimp Fried Rice",
                 "ingredients": [
                     "Shrimp",
@@ -200,7 +198,7 @@
         ]
     },
      {
-        "id": "CHC005",
+        "id": "05",
         "picture": "https://i.ibb.co/MgyhkhM/young-bearded-man-his-work-place-cooking-vegetables-496169-93.jpg",
         "name": "Martin Yan",
         "years_of_experience": 50,
@@ -209,7 +207,7 @@
         "bio": "Martin Yan is a Chinese-American chef and a television cooking show host. He is best known for his PBS series Yan Can Cook.",
         "recipes": [
             {
-                "id": "RC013",
+               
                 "name": "Mongolian Beef",
                 "ingredients": [
                     "Beef",
@@ -222,7 +220,7 @@
                 "rating": 4.6
             },
             {
-                "id": "RC014",
+                
                 "name": "Wonton Soup",
                 "ingredients": [
                     "Pork",
@@ -235,7 +233,7 @@
                 "rating": 4.8
             },
             {
-                "id": "RC015",
+                
                 "name": "Kung Pao Chicken",
                 "ingredients": [
                     "Chicken",
@@ -250,7 +248,7 @@
         ]
     },
     {
-        "id": "CHC006",
+        "id": "06",
         "picture": "https://i.ibb.co/Ms1j89s/front-view-young-female-cook-white-cook-suit-cap-posing-with-smile-green-wall-lady-work-food-cuisine.jpg",
         "name": "Susur Lee",
         "years_of_experience": 40,
@@ -259,7 +257,7 @@
         "bio": "Susur Lee is a Hong Kong-born Canadian chef and restaurateur. He has been recognized as one of the Ten Chefs of the Millennium by Food & Wine magazine and has appeared on several cooking shows.",
         "recipes": [
             {
-                "id": "RC016",
+                
                 "name": "Cantonese-Style Lobster",
                 "ingredients": [
                     "Lobster",
@@ -272,7 +270,7 @@
                 "rating": 4.9
             },
             {
-                "id": "RC017",
+                
                 "name": "Braised Pork Belly",
                 "ingredients": [
                     "Pork belly",
@@ -285,7 +283,7 @@
                 "rating": 4.7
             },
             {
-                "id": "RC018",
+                
                 "name": "Spicy Tofu",
                 "ingredients": [
                     "Tofu",
