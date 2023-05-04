@@ -91,6 +91,7 @@
             },
             {
                 "recipe_id": "IN-006",
+                
                 "name": "Ma Po Tofu",
                 "_pic":"https://i.ibb.co/zr85k9y/vegan-curry-with-tofu-vegetables-661915-287.jpg",
                 "ingredients": [
@@ -116,6 +117,7 @@
         "recipes": [
             {
                 "recipe_id": "IN-007",
+                "_pic": "https://i.ibb.co/vQLt2vM/baked-potatoes-with-garlic-herbs-fried-chanterelles-cast-iron-skillet-2829-17400.jpg",
                 "name": "General Tso's Chicken",
                 "ingredients": [
                     "Chicken",
@@ -129,6 +131,7 @@
             },
             {
                 "recipe_id": "IN-008",
+                "_pic": "https://i.ibb.co/vQLt2vM/baked-potatoes-with-garlic-herbs-fried-chanterelles-cast-iron-skillet-2829-17400.jpg",
                 "name": "Hot Pot",
                 "ingredients": [
                     "Beef",
@@ -142,6 +145,7 @@
             },
             {
                 "recipe_id": "IN-009",
+                "_pic":"https://i.ibb.co/zr85k9y/vegan-curry-with-tofu-vegetables-661915-287.jpg",
                 "name": "Dan Dan Noodles",
                 "ingredients": [
                     "Ground pork",
@@ -166,6 +170,7 @@
         "recipes": [
             {
                 "recipe_id": "IN-0010",
+                "_pic":"https://i.ibb.co/zr85k9y/vegan-curry-with-tofu-vegetables-661915-287.jpg",
                 "name": "Steamed Bao Buns",
                 "ingredients": [
                     "Flour",
@@ -179,6 +184,7 @@
             },
             {
                 "recipe_id": "IN-0011",
+                "_pic":"https://i.ibb.co/zr85k9y/vegan-curry-with-tofu-vegetables-661915-287.jpg",
                 "name": "Hunan Beef",
                 "ingredients": [
                     "Beef",
@@ -192,6 +198,7 @@
             },
             {
                 "recipe_id": "IN-0012",
+                "_pic":"https://i.ibb.co/zr85k9y/vegan-curry-with-tofu-vegetables-661915-287.jpg",
                 "name": "Shrimp Fried Rice",
                 "ingredients": [
                     "Shrimp",
@@ -216,6 +223,7 @@
         "recipes": [
             {
                 "recipe_id": "IN-0013",
+                "_pic": "https://i.ibb.co/KLv7Kgr/miso-soup-with-mushrooms-table-140725-5328.jpg",
                 "name": "Mongolian Beef",
                 "ingredients": [
                     "Beef",
@@ -229,6 +237,7 @@
             },
             {
                 "recipe_id": "IN-0014",
+                "_pic": "https://i.ibb.co/KLv7Kgr/miso-soup-with-mushrooms-table-140725-5328.jpg",
                 "name": "Wonton Soup",
                 "ingredients": [
                     "Pork",
@@ -243,6 +252,7 @@
             {
                 
                 "name": "Kung Pao Chicken",
+                "_pic": "https://i.ibb.co/KLv7Kgr/miso-soup-with-mushrooms-table-140725-5328.jpg",
                 "ingredients": [
                     "Chicken",
                     "Peppers",
@@ -267,6 +277,7 @@
             {
                 
                 "name": "Cantonese-Style Lobster",
+                "_pic": "https://i.ibb.co/KLv7Kgr/miso-soup-with-mushrooms-table-140725-5328.jpg",
                 "ingredients": [
                     "Lobster",
                     "Ginger",
@@ -280,6 +291,7 @@
             {
                 
                 "name": "Braised Pork Belly",
+                "_pic": "https://i.ibb.co/KLv7Kgr/miso-soup-with-mushrooms-table-140725-5328.jpg",
                 "ingredients": [
                     "Pork belly",
                     "Soy sauce",
@@ -293,6 +305,7 @@
             {
                 
                 "name": "Spicy Tofu",
+                "_pic": "https://i.ibb.co/KLv7Kgr/miso-soup-with-mushrooms-table-140725-5328.jpg",
                 "ingredients": [
                     "Tofu",
                     "Garlic",
