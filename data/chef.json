@@ -317,5 +317,111 @@
                 "rating": 4.6
             }
         ]
+    },
+    {
+        "id": "07",
+        "picture": "https://i.ibb.co/Ms1j89s/front-view-young-female-cook-white-cook-suit-cap-posing-with-smile-green-wall-lady-work-food-cuisine.jpg",
+        "name": "Kylie Kwong",
+        "years_of_experience": 40,
+        "num_recipes": 300,
+        "likes": 10000,
+        "bio": "Kylie Kwong is a Hong Kong-born Canadian chef and restaurateur. He has been recognized as one of the Ten Chefs of the Millennium by Food & Wine magazine and has appeared on several cooking shows.",
+        "recipes": [
+            {
+                
+                "name": "Djuvec Rice Recipe",
+                "_pic": "https://i.ibb.co/KLv7Kgr/miso-soup-with-mushrooms-table-140725-5328.jpg",
+                "ingredients": [
+                    "Lobster",
+                    "Ginger",
+                    "Scallions",
+                    "Soy sauce",
+                    "Shaoxing wine"
+                ],
+                "cooking_method": "Stir-fry",
+                "rating": 4.9
+            },
+            {
+                
+                "name": "Nancy's Granny's Peach Ice Cream",
+                "_pic": "https://i.ibb.co/KLv7Kgr/miso-soup-with-mushrooms-table-140725-5328.jpg",
+                "ingredients": [
+                    "Pork belly",
+                    "Soy sauce",
+                    "Sugar",
+                    "Star anise",
+                    "Cinnamon"
+                ],
+                "cooking_method": "Braising",
+                "rating": 4.7
+            },
+            {
+                
+                "name": "Banana Chocolate Chip Muffins Recipe",
+                "_pic": "https://i.ibb.co/KLv7Kgr/miso-soup-with-mushrooms-table-140725-5328.jpg",
+                "ingredients": [
+                    "Tofu",
+                    "Garlic",
+                    "Soy sauce",
+                    "Sambal oelek",
+                    "Green onions"
+                ],
+                "cooking_method": "Stir-fry",
+                "rating": 4.6
+            }
+        ]
+    },
+    {
+        "id": "08",
+        "picture": "https://i.ibb.co/Ms1j89s/front-view-young-female-cook-white-cook-suit-cap-posing-with-smile-green-wall-lady-work-food-cuisine.jpg",
+        "name": "Chan Yan-tak",
+        "years_of_experience": 40,
+        "num_recipes": 300,
+        "likes": 10000,
+        "bio": "Chan Yan-tak is a Hong Kong-born Canadian chef and restaurateur. He has been recognized as one of the Ten Chefs of the Millennium by Food & Wine magazine and has appeared on several cooking shows.",
+        "recipes": [
+            {
+                
+                "name": "Sesame-Ginger Marinade",
+                "_pic": "https://i.ibb.co/KLv7Kgr/miso-soup-with-mushrooms-table-140725-5328.jpg",
+                "ingredients": [
+                    "Lobster",
+                    "Ginger",
+                    "Scallions",
+                    "Soy sauce",
+                    "Shaoxing wine"
+                ],
+                "cooking_method": "Stir-fry",
+                "rating": 4.9
+            },
+            {
+                
+                "name": "Risotto alla Milanese",
+                "_pic": "https://i.ibb.co/KLv7Kgr/miso-soup-with-mushrooms-table-140725-5328.jpg",
+                "ingredients": [
+                    "Pork belly",
+                    "Soy sauce",
+                    "Sugar",
+                    "Star anise",
+                    "Cinnamon"
+                ],
+                "cooking_method": "Braising",
+                "rating": 4.7
+            },
+            {
+                
+                "name": "Peach Jam Recipe",
+                "_pic": "https://i.ibb.co/KLv7Kgr/miso-soup-with-mushrooms-table-140725-5328.jpg",
+                "ingredients": [
+                    "Tofu",
+                    "Garlic",
+                    "Soy sauce",
+                    "Sambal oelek",
+                    "Green onions"
+                ],
+                "cooking_method": "Stir-fry",
+                "rating": 4.6
+            }
+        ]
     }
 ]
